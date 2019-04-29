@@ -1,0 +1,9 @@
+﻿  AES.c
+d:\documents\github\aes\aes\src\aes.c(89): warning C4090: 'function': different 'const' qualifiers
+d:\documents\github\aes\aes\src\aes.c(130): warning C4090: 'function': different 'const' qualifiers
+d:\documents\github\aes\aes\src\aes.c(223): warning C4133: 'function': incompatible types - from 'uint32_t *' to 'Byte *'
+d:\documents\github\aes\aes\src\aes.c(224): warning C4133: 'function': incompatible types - from 'uint32_t *' to 'Byte *'
+d:\documents\github\aes\aes\src\aes.c(230): warning C4133: 'function': incompatible types - from 'uint32_t *' to 'Byte *'
+  Main.c
+  Generating Code...
+  AES.vcxproj -> D:\Documents\GitHub\AES\AES\bin\Debug\x64\AES.exe

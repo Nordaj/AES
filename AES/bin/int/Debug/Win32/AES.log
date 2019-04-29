@@ -1,0 +1,12 @@
+﻿  AES.c
+d:\documents\github\aes\aes\src\aes.c(89): warning C4090: 'function': different 'const' qualifiers
+d:\documents\github\aes\aes\src\aes.c(130): warning C4090: 'function': different 'const' qualifiers
+d:\documents\github\aes\aes\src\aes.c(223): warning C4133: 'function': incompatible types - from 'uint32_t *' to 'Byte *'
+d:\documents\github\aes\aes\src\aes.c(224): warning C4133: 'function': incompatible types - from 'uint32_t *' to 'Byte *'
+d:\documents\github\aes\aes\src\aes.c(230): warning C4133: 'function': incompatible types - from 'uint32_t *' to 'Byte *'
+  Main.c
+d:\documents\github\aes\aes\src\main.c(37): warning C4018: '<': signed/unsigned mismatch
+d:\documents\github\aes\aes\src\main.c(46): warning C4018: '<': signed/unsigned mismatch
+d:\documents\github\aes\aes\src\main.c(56): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AES.vcxproj -> D:\Documents\GitHub\AES\AES\bin\Debug\Win32\AES.exe
